@@ -2,7 +2,7 @@
 Tableau Visualizations of NY CitiBike Usage
 ## Background
 
-<a href="https://public.tableau.com/app/profile/katharine.hollars/viz/2020CitiBikeAnalysisKH/Story1#1" View the Storyboard>
+<a href="https://public.tableau.com/app/profile/katharine.hollars/viz/2020CitiBikeAnalysisKH/Story1#1">View the Storyboard</a>
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
